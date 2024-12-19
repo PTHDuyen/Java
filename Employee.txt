@@ -1,0 +1,4 @@
+1,Phạm Thị Hồng Duyên,25/05/2004,Nữ,Nam Định,0123456789,10/10/2024,14.4,4.0,Nhân viên bán hàng,Marketing
+2,Vũ Anh Thùy,24/08/2005,Nữ,Nam Định,0987654321,11/11/2024,21.5,5.0,Kỹ sư phần mềm,Kỹ thuật
+3,Phạm Văn A,12/12/1985,Nam,Hải Phòng,0997654321,11/11/2010,120.1,1.0,Giám đốc điều hành,Điều hành
+5,Vũ Thị B,12/12/2000,Nữ,Bắc Ninh,0234567819,23/04/2022,75.7,7.0,Trưởng phòng nhân sự,Marketing
